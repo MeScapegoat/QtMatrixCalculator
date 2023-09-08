@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/create192.png</file>
+        <file>icons/determinant192.png</file>
+        <file>icons/identity192.png</file>
+        <file>icons/columns_swap192.png</file>
+        <file>icons/rows_swap192.png</file>
+        <file>icons/transpose192.png</file>
+        <file>icons/load192.png</file>
+        <file>icons/save192.png</file>
+        <file>icons/inverse192.png</file>
+        <file>icons/minor192.png</file>
+        <file>icons/column_acts192.png</file>
+        <file>icons/column_amount192.png</file>
+        <file>icons/row_acts192.png</file>
+        <file>icons/row_amount192.png</file>
+        <file>icons/app192.png</file>
+        <file>icons/howtouse192.png</file>
+        <file>icons/author192.png</file>
+        <file>icons/precision192.png</file>
+        <file>icons/error192.png</file>
+        <file>icons/info192.png</file>
+        <file>icons/swap_matrices192.png</file>
+    </qresource>
+</RCC>
