@@ -1,14 +1,28 @@
-# Описание:
-## Класс предоставляет графический интерфейс для класса [Matrix](https://github.com/MeScapegoat/Matrix), реализуя все его функции.
-## Немного внешнего вида программы (извините):
-![Картинка 1 (См. файл pic1.jpg)](/pic1.jpg)
+# Описание
+Калькулятор [алгебраических матриц](https://w.wiki/7tx9) с графическим интерфейсом.
+# Стек библиотек
+1. [Собственная библиотека](https://github.com/MeScapegoat/Matrix), представляющая алгебраические матрицы.
+1. Библиотека [Qt 6.5.0](https://doc.qt.io/).
+1. C++ [STL](https://en.cppreference.com/w/cpp/standard_library).
+# Скриншоты
+Стартовое окно приложения
 
-![Картинка 2 (См. файл pic1.jpg)](/pic2.jpg)
+![Стартовое окно приложения (См. файл InitWindow.jpg)](/InitWindow.jpg)
 
-![Картинка 3 (См. файл pic1.jpg)](/pic3.jpg)
+Окно создания матриц
 
-![Картинка 4 (См. файл pic1.jpg)](/pic4.jpg)
+![Окно создания матриц (См. файл CreateMatrixWindow.jpg)](/CreateMatrixWindow.jpg)
 
-![Картинка 5 (См. файл pic1.jpg)](/pic5.jpg)
+Внешний вид матриц, на весь экран (извините)
 
-![Картинка 6 (См. файл pic1.jpg)](/pic6.jpg)
+![Внешний вид матриц, на весь экран (См. файл MatrixFullscreenView.jpg)](/MatrixFullscreenView.jpg)
+
+Внешний вид матриц, в окне
+
+![Внешний вид матриц, в окне (См. файл MatrixWindowedView.jpg)](/MatrixWindowedView.jpg)
+
+Результат сложения матриц
+
+![Результат сложения матриц (см. файл AnswerMatrixView.jpg)](/AnswerMatrixView.jpg)
+# Запуск
+В разработке...
